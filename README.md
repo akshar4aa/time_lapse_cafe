@@ -43,7 +43,14 @@ A premium MERN stack café web application featuring:
 
 (Add screenshots here)
 
----
+![login](screenshots/login.png)
+![home](screenshots/home.png)
+![footer](screenshots/footer.png)
+![past](screenshots/past.png)
+![present](screenshots/present.png)
+![future](screenshots/future.png)
+![cart](screenshots/cart.png)
+![order](screenshots/order.png)
 
 ## ⚙ Installation
 
