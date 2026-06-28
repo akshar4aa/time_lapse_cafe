@@ -41,7 +41,6 @@ A premium MERN stack café web application featuring:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
 
 ![login](screenshots/login.png)
 ![home](screenshots/home.png)
